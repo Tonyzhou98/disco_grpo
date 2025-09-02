@@ -33,7 +33,7 @@ to enable DISCO
 
 ### Training
 
-Sample training scripts and reward functions: `scripts/grpo/train_**.sh`
+Sample training scripts and reward functions: `scripts/grpo/train_grpo_qwen2.5_gt_domain_weight.sh`
 
 Sample command line to run the script
 
